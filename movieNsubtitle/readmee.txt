@@ -1,0 +1,1 @@
+Upload the video file and subtitles from which you want to extract the images.
